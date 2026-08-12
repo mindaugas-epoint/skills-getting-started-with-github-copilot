@@ -55,7 +55,7 @@ All data is stored in memory, which means data will be reset when the server res
 1. Install test dependencies from the repository root:
 
    ```
-   pip install -r requirements-dev.txt
+   pip install -r requirements.txt
    ```
 
 2. Run tests from the repository root:
